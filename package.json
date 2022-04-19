@@ -1,0 +1,22 @@
+{
+  "author": "Pruthvi S <pruthvikanta@gmail.com>",
+  "license": "ISC",
+  "name": "terrascope",
+  "version": "1.0.0",
+  "description": "Programming assignment for terrascope",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "multer": "^1.4.4",
+    "sharp": "^0.30.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "supertest": "^6.2.2"
+  }
+}
